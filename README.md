@@ -1,2 +1,1 @@
-:slightly_smiling_face:
-:mask:
+It was nice to have met you!
