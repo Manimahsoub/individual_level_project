@@ -1,2 +1,1 @@
-stinky
-:bomb:
+SIMONDICE
