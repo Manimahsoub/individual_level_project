@@ -1,1 +1,2 @@
 lbH
+vue2_canvas_components
