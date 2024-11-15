@@ -1,1 +1,1 @@
-It was nice meeting you!
+It was nice talking to you.
