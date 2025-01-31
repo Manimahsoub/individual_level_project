@@ -1,2 +1,1 @@
-raspberry_fan_control
-Pleased to meet you.
+Great seeing you.
