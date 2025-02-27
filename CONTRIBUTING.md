@@ -1,2 +1,1 @@
-CSU
-bochs
+UJCctZ0
