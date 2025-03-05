@@ -1,1 +1,1 @@
-It’s lovely to meet you!
+It was lovely meeting you!
