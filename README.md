@@ -1,2 +1,1 @@
-anIOUvdIH
-vBS-SCRIPTs
+resume.md
