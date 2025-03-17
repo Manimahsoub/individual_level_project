@@ -1,2 +1,1 @@
-SXn
-Delighted to make your acquaintance.
+Glad to meet you.
