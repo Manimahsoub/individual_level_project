@@ -1,2 +1,1 @@
-ai-snake-project-
-It was nice meeting you.
+vuex-simplify-action-
