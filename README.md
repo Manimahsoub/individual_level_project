@@ -1,3 +1,1 @@
-q7k
-attendance-management
-ansible-logger-
+2019-10-08
