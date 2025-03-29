@@ -1,3 +1,0 @@
-2034-09-15
-TELLANG
-jinwen
