@@ -1,2 +1,1 @@
-Pleased to meet you.
-:open_mouth:
+I’ve enjoyed meeting you.
