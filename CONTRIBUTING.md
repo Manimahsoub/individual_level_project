@@ -1,2 +1,0 @@
-CibmD
-:partying_face:
