@@ -1,2 +1,1 @@
-Great interacting with you!
-:yellow_heart:
+Lovely to meet you.
