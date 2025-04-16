@@ -1,2 +1,1 @@
-:heart:
-The-sacred-war
+2019-11-16
