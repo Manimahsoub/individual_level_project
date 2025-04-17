@@ -1,3 +1,1 @@
-APP_PROGRAMS
-:smiley:
-:cursing_face:
+P17ReQsd
