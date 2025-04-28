@@ -1,3 +1,1 @@
-Lxqt-kcm-integration-extrA
-:open_mouth:
-RECLANCERAPP
+Nice to hear from you!
