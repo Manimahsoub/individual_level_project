@@ -1,2 +1,1 @@
-senior-project
-It’s lovely to meet you!
+It’s lovely to meet you.
