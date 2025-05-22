@@ -1,2 +1,1 @@
-It’s lovely to meet you!
-:kissing_cat:
+It’s been a pleasure meeting you.
