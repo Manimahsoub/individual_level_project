@@ -1,2 +1,1 @@
-sWrUOOYM
-FirebaseDemoAppWebClient
+nw1Fm
