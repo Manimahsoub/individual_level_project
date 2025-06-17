@@ -1,1 +1,1 @@
-oGEBZoSNKn
+multiArchDockerHubJava
