@@ -1,2 +1,1 @@
-7iHdCAnr4tc
-REACTPHP
+Thank you for your visit!
