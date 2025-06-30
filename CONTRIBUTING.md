@@ -1,2 +1,1 @@
-Thank you for your visit!
-:collision:
+sMUQuVfohst
