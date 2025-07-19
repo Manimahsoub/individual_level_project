@@ -1,2 +1,1 @@
-anfna
-:cowboy_hat_face:
+W5nILaBSdZr
