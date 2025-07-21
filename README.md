@@ -1,1 +1,2 @@
 Mmm0d87
+fabricChainCodeTest
