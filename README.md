@@ -1,1 +1,1 @@
-hello-sdl
+league-frontend
