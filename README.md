@@ -1,1 +1,1 @@
-Pleased to make your acquaintance.
+It was nice talking to you!
