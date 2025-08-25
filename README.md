@@ -1,1 +1,1 @@
-It was nice talking to you!
+Connecting with you has been a pleasant experience.
