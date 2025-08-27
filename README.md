@@ -1,2 +1,1 @@
-2kyV
-Jayhawk
+Thanks for getting in touch!
