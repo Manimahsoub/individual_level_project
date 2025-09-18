@@ -1,3 +1,1 @@
-DBbiB
-api_rent
-Nice meeting you!
+It was nice meeting you!
